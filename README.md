@@ -3,4 +3,4 @@
 https://github.com/serengil/deepface/tree/master?tab=readme-ov-file
 
 ## about database
-this code is connected to my database so if you want to test this code, connect me
+this code is connected to my database so if you want to test this code, contect me
